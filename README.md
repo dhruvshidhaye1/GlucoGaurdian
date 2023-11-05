@@ -7,4 +7,4 @@ The Diabetes prediction dataset is a collection of medical and demographic data 
 This dataset was by MOHAMMED MUSTAFA!
 
 Please see the video preview of our web-app right here!
-[![Click the Image](https://img.youtube.com/vi/2j-Gp_V9FoA/maxresdefault.jpg)](https://youtu.be/2j-Gp_V9FoA)
+[![Click the Image](https://img.youtube.com/vi/yKKC470vt3w/maxresdefault.jpg)](https://youtu.be/yKKC470vt3w)
