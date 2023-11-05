@@ -3,7 +3,5 @@ Pioneering early pre-diabetes detection in underserved communities through data-
 
 
 Please see the video preview of our web-app right here!
-[![Watch the video](https://img.youtube.com/vi/ICpuABdSCHY/maxresdefault.jpg)](https://youtu.be/ICpuABdSCHY)
-
-
+[![Click the Image](https://img.youtube.com/vi/ICpuABdSCHY/maxresdefault.jpg)](https://youtu.be/ICpuABdSCHY)
 
